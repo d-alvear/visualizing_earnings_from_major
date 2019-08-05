@@ -1,1 +1,1 @@
-# visualizing_earnings_from_major
+# Visualizing Earnings Based on College Majors
